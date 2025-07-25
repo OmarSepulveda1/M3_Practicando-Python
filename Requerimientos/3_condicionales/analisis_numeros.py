@@ -1,5 +1,4 @@
 # Análisis simple con condicionales
-
 num = float(input("Ingrese un número: "))
 
 if num > 0:
