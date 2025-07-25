@@ -1,5 +1,4 @@
 # Calculadora de áreas
-
 def area_circulo(radio):
     return 3.1416 * radio ** 2
 

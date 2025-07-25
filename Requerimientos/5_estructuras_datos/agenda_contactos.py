@@ -1,5 +1,4 @@
 # Agenda de contactos
-
 agenda = {}
 
 while True:
