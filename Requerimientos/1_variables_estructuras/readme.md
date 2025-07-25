@@ -1,0 +1,1 @@
+Este script convierte unidades básicas (temperatura y longitud) utilizando variables, operadores y estructuras básicas de Python.

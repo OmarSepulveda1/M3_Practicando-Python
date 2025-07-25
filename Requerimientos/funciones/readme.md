@@ -1,0 +1,1 @@
+Calcula áreas usando funciones para reutilizar código.

@@ -1,0 +1,1 @@
+Script que captura distintos tipos de datos del usuario y los muestra con su tipo correspondiente.
